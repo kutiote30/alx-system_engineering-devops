@@ -1,2 +1,1 @@
-my js
-jjg
+ss
